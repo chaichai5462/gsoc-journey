@@ -9,3 +9,4 @@ Daily log and tasks for GSoC 2026 preparation.
 - daily-tasks/
 - projects/
 - contributions/
+- notes/
